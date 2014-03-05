@@ -1,0 +1,13 @@
+"""Data storage utilities"""
+import json
+
+def save_to_json(data, filename):
+    """Save data to JSON file"""
+    with open(filename, 'w') as f:
+        json.dump(data, f, indent=2)
+
+def load_from_json(filename):
+    """Load data from JSON file"""
+    with open(filename, 'r') as f:
+        return json.load(f)
+Update 0 on 2014-03-05 01:30:56
