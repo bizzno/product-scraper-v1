@@ -10,3 +10,4 @@ def extract_text(element):
     return element.get_text(strip=True)
 Update 3 on 2014-03-05 21:14:52
 Update 8 on 2014-03-05 18:54:34
+Update 17 on 2014-03-10 09:43:27
