@@ -17,3 +17,4 @@ class ProductScraper:
         return 0.0
 Update 5 on 2014-03-05 06:10:34
 Update 13 on 2014-03-07 08:59:30
+Update 21 on 2014-03-10 13:02:33
