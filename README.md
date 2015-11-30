@@ -1,336 +1,59 @@
 # Product Scraper
 
 Web scraper for extracting product information from e-commerce websites.
-Update 1 on 2014-03-05 02:22:58
-Update 7 on 2014-03-05 08:54:21
-Update 20 on 2014-03-10 05:14:17
-Update 27 on 2014-03-14 04:01:20
-Update 29 on 2014-03-14 09:06:53
-Update 30 on 2014-03-14 08:21:49
-Update 32 on 2014-03-14 04:19:57
-Update 41 on 2014-03-17 10:53:02
-Update 47 on 2014-03-24 21:10:59
-Update 54 on 2014-03-24 00:16:09
-Update 61 on 2014-03-27 14:10:55
-Update 69 on 2014-03-31 23:14:21
-Update 74 on 2014-03-31 03:03:03
-Update 80 on 2014-04-07 08:29:55
-Update 83 on 2014-04-07 14:28:54
-Update 86 on 2014-04-07 00:09:01
-Update 87 on 2014-04-07 12:58:36
-Update 91 on 2014-04-11 02:26:49
-Update 99 on 2014-04-11 14:20:27
-Update 104 on 2014-04-16 07:13:37
-Update 108 on 2014-04-16 02:53:58
-Update 112 on 2014-04-16 00:14:04
-Update 114 on 2014-04-16 22:08:59
-Update 116 on 2014-04-20 10:21:10
-Update 117 on 2014-04-20 18:57:56
-Update 126 on 2014-04-21 06:00:18
-Update 128 on 2014-04-21 13:21:59
-Update 139 on 2014-04-23 18:54:09
-Update 140 on 2014-04-23 09:13:18
-Update 142 on 2014-04-23 00:58:15
-Update 147 on 2014-04-23 06:53:15
-Update 156 on 2014-05-02 04:53:03
-Update 160 on 2014-05-02 23:36:08
-Update 163 on 2014-05-02 04:11:16
-Update 167 on 2014-05-06 23:08:39
-Update 176 on 2014-05-08 00:43:10
-Update 186 on 2014-05-08 12:19:41
-Update 188 on 2014-05-08 13:12:27
-Update 193 on 2014-05-09 08:27:37
-Update 198 on 2014-05-15 18:02:28
-Update 199 on 2014-05-15 19:25:24
-Update 208 on 2014-05-16 12:54:37
-Update 217 on 2014-05-17 03:22:37
-Update 218 on 2014-05-17 19:36:22
-Update 220 on 2014-05-21 12:04:52
-Update 230 on 2014-05-22 17:58:12
-Update 231 on 2014-05-22 22:59:30
-Update 236 on 2014-05-22 05:15:31
-Update 241 on 2014-05-22 17:42:54
-Update 242 on 2014-05-22 02:21:16
-Update 246 on 2014-05-26 16:06:47
-Update 247 on 2014-05-26 02:17:02
-Update 249 on 2014-05-27 04:13:15
-Update 252 on 2014-05-27 06:03:58
-Update 262 on 2014-05-30 18:44:54
-Update 266 on 2014-05-30 12:13:18
-Update 268 on 2014-05-30 13:30:32
-Update 269 on 2014-05-30 08:18:40
-Update 276 on 2014-06-03 06:35:56
-Update 278 on 2014-06-03 20:18:33
-Update 280 on 2014-06-04 10:36:15
-Update 282 on 2014-06-04 00:48:57
-Update 290 on 2014-06-10 09:11:14
-Update 292 on 2014-06-10 13:22:25
-Update 296 on 2014-06-11 18:30:37
-Update 298 on 2014-06-11 12:46:48
-Update 299 on 2014-06-11 02:18:32
-Update 302 on 2014-06-20 15:13:40
-Update 307 on 2014-06-20 05:37:14
-Update 311 on 2014-06-20 16:50:11
-Update 312 on 2014-06-20 03:38:29
-Update 315 on 2014-06-20 16:08:25
-Update 318 on 2014-07-08 19:20:55
-Update 319 on 2014-07-08 20:35:09
-Update 328 on 2014-07-14 14:00:48
-Update 329 on 2014-07-14 02:49:23
-Update 338 on 2014-07-14 03:11:17
-Update 347 on 2014-07-21 21:40:37
-Update 348 on 2014-07-21 19:42:26
-Update 355 on 2014-07-22 19:05:02
-Update 369 on 2014-08-04 19:59:24
-Update 370 on 2014-08-04 22:50:10
-Update 372 on 2014-08-05 07:58:17
-Update 373 on 2014-08-05 15:24:26
-Update 387 on 2014-08-20 16:35:30
-Update 391 on 2014-08-20 10:36:15
-Update 401 on 2014-08-22 15:28:14
-Update 405 on 2014-08-22 21:00:26
-Update 415 on 2014-08-26 21:39:10
-Update 420 on 2014-08-27 00:27:32
-Update 423 on 2014-08-27 22:32:34
-Update 427 on 2014-08-27 16:57:19
-Update 433 on 2014-08-28 08:16:43
-Update 434 on 2014-08-28 02:51:39
-Update 435 on 2014-08-28 11:21:05
-Update 438 on 2014-08-31 05:19:39
-Update 439 on 2014-08-31 02:00:32
-Update 441 on 2014-08-31 14:16:26
-Update 442 on 2014-08-31 14:54:28
-Update 446 on 2014-09-01 02:49:45
-Update 456 on 2014-09-05 15:12:27
-Update 457 on 2014-09-05 22:03:47
-Update 459 on 2014-09-06 01:26:33
-Update 460 on 2014-09-10 21:59:08
-Update 461 on 2014-09-10 03:36:18
-Update 469 on 2014-09-18 00:04:48
-Update 472 on 2014-09-19 02:12:26
-Update 474 on 2014-09-19 08:47:20
-Update 476 on 2014-09-19 18:48:37
-Update 481 on 2014-09-21 05:46:01
-Update 487 on 2014-09-26 22:20:13
-Update 488 on 2014-09-26 09:15:07
-Update 493 on 2014-09-29 20:02:48
-Update 499 on 2014-09-29 05:10:50
-Update 502 on 2014-10-01 03:57:57
-Update 507 on 2014-10-01 00:42:11
-Update 508 on 2014-10-03 12:27:46
-Update 513 on 2014-10-06 13:26:48
-Update 515 on 2014-10-06 05:53:13
-Update 516 on 2014-10-06 11:24:08
-Update 519 on 2014-10-06 16:07:29
-Update 523 on 2014-10-06 03:39:16
-Update 526 on 2014-10-19 18:41:56
-Update 536 on 2014-10-21 10:35:40
-Update 539 on 2014-10-21 12:31:14
-Update 550 on 2014-10-23 03:50:51
-Update 554 on 2014-10-27 03:54:21
-Update 555 on 2014-11-03 23:56:46
-Update 571 on 2014-11-06 05:23:06
-Update 573 on 2014-11-19 11:13:35
-Update 576 on 2014-11-19 18:36:25
-Update 586 on 2014-11-19 12:07:03
-Update 587 on 2014-11-19 18:15:45
-Update 591 on 2014-11-20 09:26:45
-Update 597 on 2014-12-08 02:17:16
-Update 598 on 2014-12-08 20:45:51
-Update 599 on 2014-12-08 22:31:32
-Update 602 on 2014-12-08 04:27:06
-Update 604 on 2014-12-10 06:14:03
-Update 613 on 2014-12-10 11:28:42
-Update 614 on 2014-12-10 04:16:46
-Update 623 on 2014-12-12 11:27:16
-Update 626 on 2014-12-13 03:45:54
-Update 631 on 2014-12-13 22:59:35
-Update 633 on 2014-12-13 14:59:46
-Update 635 on 2014-12-13 21:03:01
-Update 636 on 2014-12-13 16:19:47
-Update 642 on 2014-12-14 22:06:46
-Update 643 on 2014-12-14 14:44:24
-Update 646 on 2014-12-14 21:17:41
-Update 654 on 2014-12-16 10:53:45
-Update 655 on 2014-12-17 14:30:54
-Update 657 on 2014-12-17 09:31:53
-Update 658 on 2014-12-17 01:21:25
-Update 666 on 2014-12-17 09:47:06
-Update 668 on 2014-12-19 15:59:23
-Update 673 on 2014-12-19 09:34:20
-Update 675 on 2014-12-19 11:30:35
-Update 677 on 2014-12-19 16:06:05
-Update 681 on 2014-12-22 15:36:15
-Update 686 on 2014-12-22 02:44:56
-Update 688 on 2014-12-22 22:00:08
-Update 689 on 2014-12-22 10:57:10
-Update 692 on 2014-12-22 22:17:22
-Update 696 on 2014-12-26 03:52:05
-Update 706 on 2014-12-30 18:14:33
-Update 707 on 2014-12-30 20:58:56
-Update 708 on 2015-01-01 08:32:24
-Update 709 on 2015-01-01 07:36:03
-Update 715 on 2015-01-05 07:18:14
-Update 718 on 2015-01-05 15:03:43
-Update 725 on 2015-01-05 19:01:22
-Update 730 on 2015-01-07 02:07:46
-Update 735 on 2015-01-07 10:49:55
-Update 751 on 2015-01-12 12:03:44
-Update 755 on 2015-01-12 19:49:15
-Update 758 on 2015-01-12 06:46:17
-Update 771 on 2015-01-14 23:28:52
-Update 777 on 2015-01-15 17:21:01
-Update 784 on 2015-01-15 06:11:36
-Update 788 on 2015-01-20 16:41:07
-Update 804 on 2015-01-25 21:49:18
-Update 808 on 2015-01-29 05:39:05
-Update 815 on 2015-01-30 05:41:21
-Update 823 on 2015-01-31 17:19:50
-Update 832 on 2015-02-08 21:52:00
-Update 837 on 2015-02-08 15:34:03
-Update 847 on 2015-02-10 05:30:13
-Update 848 on 2015-02-10 04:06:16
-Update 850 on 2015-02-10 22:59:55
-Update 862 on 2015-02-13 07:20:36
-Update 879 on 2015-02-21 14:38:08
-Update 880 on 2015-02-21 17:30:11
-Update 883 on 2015-02-21 22:08:24
-Update 884 on 2015-02-21 08:14:47
-Update 889 on 2015-02-21 19:39:58
-Update 899 on 2015-02-24 00:54:34
-Update 900 on 2015-02-24 04:04:11
-Update 906 on 2015-03-01 23:37:19
-Update 912 on 2015-03-01 22:27:02
-Update 930 on 2015-03-08 12:02:58
-Update 938 on 2015-03-08 07:36:27
-Update 944 on 2015-03-09 14:45:19
-Update 946 on 2015-03-09 13:58:37
-Update 949 on 2015-03-10 01:37:39
-Update 958 on 2015-03-12 05:08:25
-Update 960 on 2015-03-16 16:46:36
-Update 963 on 2015-03-16 00:46:29
-Update 972 on 2015-03-17 13:55:25
-Update 974 on 2015-03-17 08:07:48
-Update 991 on 2015-03-21 14:31:40
-Update 998 on 2015-03-21 17:58:37
-Update 1003 on 2015-03-22 07:03:14
-Update 1013 on 2015-03-26 12:25:20
-Update 1018 on 2015-03-26 10:40:20
-Update 1023 on 2015-03-28 21:50:50
-Update 1040 on 2015-04-16 18:13:08
-Update 1042 on 2015-04-16 12:52:58
-Update 1045 on 2015-04-16 04:14:18
-Update 1046 on 2015-04-16 20:32:52
-Update 1052 on 2015-04-17 17:23:24
-Update 1056 on 2015-04-18 18:53:41
-Update 1062 on 2015-04-20 06:17:18
-Update 1063 on 2015-04-22 20:45:29
-Update 1068 on 2015-04-23 13:31:18
-Update 1070 on 2015-04-23 09:40:57
-Update 1071 on 2015-04-23 22:32:22
-Update 1072 on 2015-04-24 02:07:16
-Update 1080 on 2015-04-24 18:39:26
-Update 1081 on 2015-04-24 07:58:58
-Update 1095 on 2015-04-28 08:09:13
-Update 1103 on 2015-04-29 05:59:19
-Update 1104 on 2015-04-29 00:26:12
-Update 1107 on 2015-04-29 11:51:40
-Update 1114 on 2015-05-06 18:37:28
-Update 1118 on 2015-05-06 15:34:18
-Update 1120 on 2015-05-06 16:17:18
-Update 1124 on 2015-05-06 10:02:39
-Update 1127 on 2015-05-07 14:14:13
-Update 1133 on 2015-05-07 08:33:33
-Update 1134 on 2015-05-07 12:43:42
-Update 1150 on 2015-05-08 11:57:36
-Update 1153 on 2015-05-13 11:38:11
-Update 1155 on 2015-05-13 11:17:55
-Update 1163 on 2015-05-24 14:14:57
-Update 1166 on 2015-05-24 21:26:58
-Update 1167 on 2015-05-24 02:52:45
-Update 1170 on 2015-05-24 13:35:33
-Update 1173 on 2015-05-25 23:31:51
-Update 1188 on 2015-05-27 16:56:53
-Update 1194 on 2015-05-27 01:27:41
-Update 1195 on 2015-06-03 17:23:52
-Update 1205 on 2015-06-08 06:38:16
-Update 1207 on 2015-06-10 01:32:32
-Update 1208 on 2015-06-10 13:11:52
-Update 1209 on 2015-06-10 14:45:16
-Update 1237 on 2015-06-25 21:12:38
-Update 1241 on 2015-06-25 01:27:48
-Update 1243 on 2015-06-25 21:00:18
-Update 1245 on 2015-06-26 00:01:14
-Update 1250 on 2015-07-02 19:22:02
-Update 1254 on 2015-07-02 22:45:33
-Update 1267 on 2015-07-09 17:05:10
-Update 1270 on 2015-07-09 08:08:02
-Update 1286 on 2015-07-12 19:15:31
-Update 1294 on 2015-07-12 02:30:30
-Update 1296 on 2015-07-12 15:53:28
-Update 1299 on 2015-07-12 12:27:49
-Update 1309 on 2015-07-15 21:42:05
-Update 1330 on 2015-07-20 06:26:42
-Update 1343 on 2015-07-24 05:45:56
-Update 1360 on 2015-08-05 22:15:28
-Update 1365 on 2015-08-05 07:16:50
-Update 1378 on 2015-08-20 17:15:59
-Update 1381 on 2015-08-20 12:05:38
-Update 1383 on 2015-08-20 01:18:21
-Update 1386 on 2015-08-23 23:08:42
-Update 1397 on 2015-08-26 01:28:04
-Update 1399 on 2015-08-26 11:58:39
-Update 1401 on 2015-08-26 20:05:01
-Update 1408 on 2015-09-01 10:06:12
-Update 1415 on 2015-09-02 09:33:52
-Update 1422 on 2015-09-02 04:11:46
-Update 1425 on 2015-09-07 17:09:27
-Update 1427 on 2015-09-07 03:14:13
-Update 1429 on 2015-09-07 02:04:59
-Update 1431 on 2015-09-07 14:35:36
-Update 1443 on 2015-09-08 20:56:48
-Update 1447 on 2015-09-09 20:59:16
-Update 1459 on 2015-09-17 17:04:55
-Update 1461 on 2015-09-17 19:53:45
-Update 1472 on 2015-09-19 03:13:17
-Update 1476 on 2015-09-21 18:06:31
-Update 1482 on 2015-09-25 22:01:05
-Update 1489 on 2015-09-27 07:47:01
-Update 1491 on 2015-09-27 07:19:00
-Update 1494 on 2015-09-27 23:18:32
-Update 1497 on 2015-09-27 10:06:24
-Update 1498 on 2015-09-27 19:10:25
-Update 1501 on 2015-10-05 17:08:42
-Update 1504 on 2015-10-06 06:00:37
-Update 1510 on 2015-10-07 07:48:45
-Update 1517 on 2015-10-09 04:03:15
-Update 1544 on 2015-10-14 02:00:01
-Update 1549 on 2015-10-19 23:39:38
-Update 1563 on 2015-10-23 06:26:12
-Update 1569 on 2015-10-23 17:52:20
-Update 1581 on 2015-10-26 12:32:56
-Update 1582 on 2015-10-26 18:35:35
-Update 1584 on 2015-10-27 12:57:49
-Update 1586 on 2015-10-27 07:33:42
-Update 1587 on 2015-10-27 10:06:18
-Update 1597 on 2015-10-28 18:10:53
-Update 1607 on 2015-10-28 10:47:06
-Update 1609 on 2015-10-29 00:25:35
-Update 1611 on 2015-10-29 20:33:46
-Update 1613 on 2015-10-30 04:09:25
-Update 1615 on 2015-10-30 21:01:47
-Update 1618 on 2015-10-30 16:12:45
-Update 1621 on 2015-10-30 11:37:49
-Update 1622 on 2015-11-05 23:53:03
-Update 1630 on 2015-11-05 08:48:13
-Update 1632 on 2015-11-10 12:08:35
-Update 1635 on 2015-11-10 19:28:42
-Update 1645 on 2015-11-11 16:13:01
-Update 1650 on 2015-11-13 18:51:58
-Update 1668 on 2015-11-20 14:48:35
-Update 1677 on 2015-11-25 21:09:25
-Update 1683 on 2015-11-26 15:40:15
-Update 1685 on 2015-11-27 14:51:10
-Update 1695 on 2015-11-27 16:19:01
-Update 1702 on 2015-12-01 13:19:38
-Update 1704 on 2015-12-01 14:23:52
+
+## Features
+
+- Multi-site scraping support
+- Product data extraction (name, price, description, images)
+- Pagination handling
+- Rate limiting and request throttling
+- Data export to CSV/JSON
+- Proxy support for distributed scraping
+- Error handling and retry logic
+
+## Structure
+
+```
+src/
+├── scrapers/     - Site-specific scraper implementations
+├── parsers/      - HTML parsing and data extraction
+├── utils/        - Storage, export, and helper utilities
+└── config/       - Configuration and site definitions
+```
+
+## Installation
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run a scraper for a specific site:
+```bash
+python main.py --site example-store --output products.json
+```
+
+Python API:
+```python
+from src.scrapers import ProductScraper
+
+scraper = ProductScraper('https://example.com')
+products = scraper.scrape_products()
+
+for product in products:
+    print(f"{product['name']}: ${product['price']}")
+```
+
+## Requirements
+
+- Python 3.6 or higher
+- BeautifulSoup4
+- requests
+- lxml
+
+## License
+
+MIT
